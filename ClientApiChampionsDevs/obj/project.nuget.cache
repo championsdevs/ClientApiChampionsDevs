@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zcf4Gfdeg7oPQPXWb3lLBJGNLnPkXvmUu4U0ReHXBgvgcfacvoQxQc3f6edjnKabP2Z73VKZWW7V+xgNRd6PFg==",
+  "success": true,
+  "projectFilePath": "D:\\github\\ChampionsDevs\\ClientApiChampionsDevs\\ClientApiChampionsDevs\\ClientApiChampionsDevs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\evtmi\\.nuget\\packages\\restsharp\\108.0.3\\restsharp.108.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

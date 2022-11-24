@@ -1,0 +1,17 @@
+D:\github\ChampionsDevs\ClientApiChampionsDevs\ClientApiChampionsDevs\bin\Debug\net6.0\ClientApiChampionsDevs.exe
+D:\github\ChampionsDevs\ClientApiChampionsDevs\ClientApiChampionsDevs\bin\Debug\net6.0\ClientApiChampionsDevs.deps.json
+D:\github\ChampionsDevs\ClientApiChampionsDevs\ClientApiChampionsDevs\bin\Debug\net6.0\ClientApiChampionsDevs.runtimeconfig.json
+D:\github\ChampionsDevs\ClientApiChampionsDevs\ClientApiChampionsDevs\bin\Debug\net6.0\ClientApiChampionsDevs.dll
+D:\github\ChampionsDevs\ClientApiChampionsDevs\ClientApiChampionsDevs\bin\Debug\net6.0\ClientApiChampionsDevs.pdb
+D:\github\ChampionsDevs\ClientApiChampionsDevs\ClientApiChampionsDevs\bin\Debug\net6.0\RestSharp.dll
+D:\github\ChampionsDevs\ClientApiChampionsDevs\ClientApiChampionsDevs\obj\Debug\net6.0\ClientApiChampionsDevs.csproj.AssemblyReference.cache
+D:\github\ChampionsDevs\ClientApiChampionsDevs\ClientApiChampionsDevs\obj\Debug\net6.0\ClientApiChampionsDevs.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\ChampionsDevs\ClientApiChampionsDevs\ClientApiChampionsDevs\obj\Debug\net6.0\ClientApiChampionsDevs.AssemblyInfoInputs.cache
+D:\github\ChampionsDevs\ClientApiChampionsDevs\ClientApiChampionsDevs\obj\Debug\net6.0\ClientApiChampionsDevs.AssemblyInfo.cs
+D:\github\ChampionsDevs\ClientApiChampionsDevs\ClientApiChampionsDevs\obj\Debug\net6.0\ClientApiChampionsDevs.csproj.CoreCompileInputs.cache
+D:\github\ChampionsDevs\ClientApiChampionsDevs\ClientApiChampionsDevs\obj\Debug\net6.0\ClientApiChampionsDevs.csproj.CopyComplete
+D:\github\ChampionsDevs\ClientApiChampionsDevs\ClientApiChampionsDevs\obj\Debug\net6.0\ClientApiChampionsDevs.dll
+D:\github\ChampionsDevs\ClientApiChampionsDevs\ClientApiChampionsDevs\obj\Debug\net6.0\refint\ClientApiChampionsDevs.dll
+D:\github\ChampionsDevs\ClientApiChampionsDevs\ClientApiChampionsDevs\obj\Debug\net6.0\ClientApiChampionsDevs.pdb
+D:\github\ChampionsDevs\ClientApiChampionsDevs\ClientApiChampionsDevs\obj\Debug\net6.0\ClientApiChampionsDevs.genruntimeconfig.cache
+D:\github\ChampionsDevs\ClientApiChampionsDevs\ClientApiChampionsDevs\obj\Debug\net6.0\ref\ClientApiChampionsDevs.dll
